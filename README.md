@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ericcombs81
-- 👀 I'm a middle school band director who is getting a masters in CS
-- 🌱 I’m currently learning Java and web development
-- 💞️ I’m looking to collaborate on JavaFX projects
+- 👀 I am a corporate instructional designer for The Hershey Company (yes, the chocolate company)
+- 🌱 I specialize in web development, app creation, Java software engineering, Machine Learning, and Deep Learning
+- 💞️ I’m looking for a job in coding (websites, software, apps, or AI)
 - 📫 How to reach me eric1981combs@gmail.com
 
 <!---
