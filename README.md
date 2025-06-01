@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ericcombs81
 - 👀 I am a corporate instructional designer for The Hershey Company (yes, the chocolate company)
 - 🌱 I specialize in web development, app creation, Java software engineering, Machine Learning, and Deep Learning
-- 💞️ I’m looking for a job in coding (websites, software, apps, or AI)
+- 💞️ I’m looking for a full time remote coding job (websites, software, apps, or AI)
 - 📫 How to reach me eric1981combs@gmail.com
 
 <!---
